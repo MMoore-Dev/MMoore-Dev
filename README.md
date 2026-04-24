@@ -5,7 +5,7 @@ I’m an **IT Student** pivoting into **Data Science**. I treat my GitHub as a "
 ---
 
 ### 🚀 What I’m Working On
-- 📊 **Current Project:** Building stock market analysis tools and system log parsers.
+- 📊 **Current Projects:** Building analysis tools.
 - ⚙️ **Workflow:** I develop in **VS Code**, test in **Jupyter Lab**, and manage version control via **Git Bash**.
 - 🤝 **Collaboration:** I’m looking to connect with other developers on open-source data tools and industry best practices.
 
